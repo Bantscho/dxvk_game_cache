@@ -12,4 +12,4 @@ Paste the file in to the following directory ($HOME/.steam/steam/steamapps/shade
 Mostly stutter-free, if not perfectly smooth.
 
 ### ELEX 2 (GAMEID: 900040)
-Includes cache of 10 hours of playtime. Some areas/npcs/magical effects TBD.
+Includes cache of 15 hours of playtime. Some areas/npcs/magical effects TBD.
